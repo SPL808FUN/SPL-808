@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-OCTREE-blue?logo=google-chrome)](https://octree.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-OCTREE-blue?logo=twitter)](https://x.com/OCTREELAB)
 
+CA: GiUhGdVCuFjVrWmhTc6UoPPfKzreg3eimUK7FVcopump
+
 OCTREE — An On-chain Multiverse Root System Built on the Solana Architecture
 
 Octree transforms the linear flow of blockchain data into a fractal, root-based structure powered by Fractal State Root technology.
