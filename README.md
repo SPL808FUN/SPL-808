@@ -16,6 +16,7 @@
                                                         
 
 ```
+CA: BQ1UtmfHNoBpnrCNhotDUWrwwqMXM8eMbFZo1FQcpump
 
 FUNXPAY — The First x402-Enabled MCP Server on Solana
 
