@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-FOGONE-blue?logo=google-chrome)](https://fogone.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-FOGONE-blue?logo=twitter)](https://x.com/ITSFOGONE)
 
+## CA: 8TNRCuGoASuHVoyWgDGcQ5FaS3BDzoaZ7MDUpomfpump
+
 # 🌫️ Fogone — On-Chain Pond Constructor for SPL Assets
 
 Fogone is a new ecological framework built on Solana that creates an independent **on-chain pond** for every SPL token.  
