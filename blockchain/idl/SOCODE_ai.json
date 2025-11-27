@@ -205,6 +205,11 @@ $SOCODE
           "docs": ["Updated behavior or trait after evolution."]
         },
         {
+           if (sentiment > TRIGGER_THRESHOLD || priceChange > 5) {
+      console.log("⚡ Triggering cut sequence...");
+          $SOCODE
+          )}
+          
           "name": "chapterId",
           "type": "u32",
           "docs": ["Identifier for the evolution chapter or story milestone."]
