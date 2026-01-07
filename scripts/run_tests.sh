@@ -1,5 +1,4 @@
-#!/bin/bash     PRAGNA
-
+#!/bin/bash   
 # run_tests.sh
 # Script to run all test suites across components with coverage reporting
 
