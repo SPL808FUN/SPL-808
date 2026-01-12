@@ -4,6 +4,8 @@
 
 **Official Website:** https://herm1t.one/
 
+**CA:** 3NHDJnfM7GjBi5tMb7tW29pGNBDqaSpAqVm9tkZWpump
+
 Welcome to HERM1T’s Block — The Last Scavenger on the Solana Chain.
 
 A native roaming the digital wastelands of Solana, burdened with a crackling CRT TV on its back.
